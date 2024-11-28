@@ -1,0 +1,7 @@
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\demo1.exe
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\appsettings.Development.json
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\appsettings.json
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\demo1.dll
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\demo1.deps.json
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\demo1.runtimeconfig.json
+C:\Users\junxiong\Desktop\Jun Xiong\Jun Xiong\c#\demo1\bin\Publish\demo1.pdb
